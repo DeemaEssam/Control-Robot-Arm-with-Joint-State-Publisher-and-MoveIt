@@ -1,6 +1,10 @@
 # Control-Robot-Arm-with-Joint-State-Publisher
 ```ruby
 source /opt/ros/noetic/setup.bash
+
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/
+catkin_make
 ```
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/485db32d-0524-4e54-8600-e9070a451e24" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/969e9009-9de4-42af-970f-5f672e93be17" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
