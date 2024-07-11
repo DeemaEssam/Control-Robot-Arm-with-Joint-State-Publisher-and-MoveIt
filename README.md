@@ -42,7 +42,8 @@ rosrun robot_arm_pkg joint_states_to_gazebo.py
 
 
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/2e951ca3-f108-4a55-9209-8d13cb296475" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
-<img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/eb371d77-5709-4da4-8e00-6c089abc1f10" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
+<img src="https://github.com/GDHadeel/Robot-Arm-Control-with-Joint-State-Publisher-and-MoveIt/assets/106381596/b31f8de7-d330-401f-82cb-84df4acfb888" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
+![movingArm1](https://github.com/GDHadeel/Robot-Arm-Control-with-Joint-State-Publisher-and-MoveIt/assets/106381596/b31f8de7-d330-401f-82cb-84df4acfb888)
 
 
 
@@ -74,6 +75,5 @@ roslaunch moveit_pkg demo.launch
 roslaunch moveit_pkg demo_gazebo.launch
 ```
 
-<img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/d5d2a37a-d9a8-4c58-847c-0f764ccaaf41" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
-<img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/f17af1f8-8d7f-4bda-9271-718654026978" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
-<img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/2f48dd7e-3bd0-4d68-9110-38a740d7d929" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
+<img src="https://github.com/GDHadeel/Robot-Arm-Control-with-Joint-State-Publisher-and-MoveIt/assets/106381596/b7811037-b293-4551-994c-10e265f49634" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
+![moveArm2](https://github.com/GDHadeel/Robot-Arm-Control-with-Joint-State-Publisher-and-MoveIt/assets/106381596/b7811037-b293-4551-994c-10e265f49634)
