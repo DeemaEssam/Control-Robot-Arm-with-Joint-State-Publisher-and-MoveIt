@@ -59,8 +59,7 @@ git clone https://github.com/smart-methods/arduino_robot_arm
 cd ~/catkin_ws
 rosdep install --from-paths src --ignore-src -r -y
 ```
-3. 
-4. 
+3. Running the MoveIt Package:
 
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/770371d4-9671-45b3-8bf2-b20ad5f77df4" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
 ```ruby
