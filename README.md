@@ -65,12 +65,15 @@ rosdep install --from-paths src --ignore-src -r -y
 ```ruby
 catkin_make
 ```
+
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/c696b707-9b0e-439b-8239-b062b0d0e956" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
+
 ```ruby
 roslaunch moveit_pkg demo.launch
 
 roslaunch moveit_pkg demo_gazebo.launch
 ```
+
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/d5d2a37a-d9a8-4c58-847c-0f764ccaaf41" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/f17af1f8-8d7f-4bda-9271-718654026978" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/2f48dd7e-3bd0-4d68-9110-38a740d7d929" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
